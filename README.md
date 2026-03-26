@@ -1,1 +1,2 @@
 # Digital_baby_memory_book
+The Digital Baby Memory Book is a web-based application designed to store and organize childhood memories in a simple, beautiful, and secure way. Parents can create a dedicated profile for their child, upload photos, record milestones, and view memories through a timeline or gallery format. Instead of traditional physical albums that may get damaged or lost, this platform ensures long-term digital preservation.
